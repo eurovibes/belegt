@@ -1,0 +1,11 @@
+ERC report (2025-02-28T15:38:02+0000, Encoding UTF8)
+
+***** Sheet /
+
+***** Sheet /Probe \ Sense/
+
+***** Sheet /Serial/
+
+***** Sheet /LED/
+
+ ** ERC messages: 0  Errors 0  Warnings 0
